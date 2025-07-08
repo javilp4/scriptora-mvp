@@ -17,6 +17,6 @@ Actualmente en desarrollo. Este repositorio contiene la estructura básica del b
 ## Licencia
 
 Este proyecto está licenciado bajo los términos de la **Licencia Ética MindSec v1.1**, la cual impone criterios éticos para su uso y distribución.  
-Consulta el archivo [`LICENSE-MindSec-v1.1.md`](./ETHICAL-LICENSE-MindSec-v1.1.md) para más detalles.
+Consulta el archivo [`LICENSE-MindSec-v1.1.md`](./ETHICAL-LICENSE-MindSec) para más detalles.
 
 
