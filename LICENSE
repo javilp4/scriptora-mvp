@@ -1,21 +1,241 @@
-MIT License
+Licencia Ética MindSec
+# Licencia Ética MindSec v1.1
 
-Copyright (c) 2025 javilp4
+**LICENCIA HIPOCRÁTICA**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+# **1. DEFINICIONES:**
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+_Esta sección define ciertos términos utilizados a lo largo de este acuerdo de licencia._
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## **1.1**
+**“Licencia”** significa los términos y condiciones, como se establece en este documento, para el uso, copia, modificación, preparación de trabajos derivados, reproducción y distribución de Software (como se define a continuación).
+
+## **1.2.**
+**“Licenciante”** significa el propietario de los derechos de autor y/o de la patente o la entidad autorizada por el propietario de los derechos de autor y/o de la patente que otorga la Licencia.
+
+## **1.3.**
+**“Licenciatario”** significa el individuo o entidad que ejerce los permisos otorgados por esta Licencia, incluido el uso, copia, modificación, preparación de trabajos derivados, reproducción y distribución de Software (como se define a continuación).
+
+## **1.4.**
+**“Software”** significa cualquier trabajo protegido por derechos de autor, incluido, entre otros, el código de software, creado por el Licenciante y puesto a disposición bajo esta Licencia.
+
+## **1.5.**
+**“Cadena de suministro”** significa la secuencia de procesos involucrados en la producción y/o distribución de un producto, bien o servicio ofrecido por el Licenciatario.
+
+## **1.6.**
+**“Parte impactada en la cadena de suministro”** o “Partes impactadas en la cadena de suministro” significa cualquier persona(s) directamente impactada por cualquiera de las cadenas de suministro del Licenciatario, incluidas las prácticas de todas las personas o entidades dentro de la cadena de suministro antes de que un bien o servicio llegue al Licenciatario.
+
+## **1.7.**
+**“Deber de cuidado”** se define por su uso en el derecho de responsabilidad civil, el derecho de delitos y/o cuerpos legales similares estrechamente relacionados con el derecho de responsabilidad civil y/o de delitos, incluido, entre otros, un requisito de actuar con la vigilancia, atención, precaución y prudencia que una persona razonable en las mismas circunstancias o circunstancias similares usaría hacia cualquier Parte Impactada en la Cadena de Suministro.
+
+## **1.8.**
+**“Trabajador”** se define para incluir a todos y cada uno de los trabajadores permanentes, temporales y de agencia, así como a los trabajadores a destajo, asalariados, remunerados por horas, jóvenes legales (menores), a tiempo parcial, nocturnos y migrantes.
+
+## 2. Finalidad
+
+Este software ha sido desarrollado con la finalidad de promover la educación, la protección digital, la privacidad personal y el desarrollo humano. Su uso está condicionado al respeto de estos principios.
+
+---
+
+## 3. Usos no permitidos
+
+Queda expresamente prohibido utilizar este software, en todo o en parte, para:
+
+- Vigilancia masiva o invasiva, sin consentimiento informado y libre.
+- Discriminación o acoso por motivos de étnia, sexo, religión, orientación sexual, nacionalidad, discapacidad u otra condición.
+- Explotación laboral o cualquier práctica que atente contra la dignidad humana.
+- Manipulación de la información con fines maliciosos, propagandísticos o desinformativos.
+- Desarrollo de sistemas de control, opresión o coerción social o institucional.
+- Reventa o explotación comercial sin autorización expresa del autor o su equipo.
+
+---
+
+## 4. Condiciones para contribuir
+
+Solo podrán contribuir al núcleo del sistema aquellas personas que:
+
+- Aprueben un test ético, técnico y psicotécnico supervisado por el equipo de MindSecAI.
+- Acepten el historial cifrado de contribuciones como medida de transparencia y seguridad.
+- Se comprometan a actuar con integridad profesional y respeto al propósito original del proyecto.
+
+El incumplimiento de estos principios podrá suponer el **bloqueo automático y permanente de acceso** a partes críticas del sistema, según el criterio de MindSecAI.
+
+---
+
+## 5. Derivados y modificaciones
+
+Se permite la creación de obras derivadas **siempre que mantengan esta licencia**, los principios éticos aquí descritos, y se reconozca la autoría original.
+
+Está prohibido relicenciar el código original bajo licencias permisivas (como MIT, BSD o Apache) sin autorización expresa por escrito (por parte del autor y la dirección general de la(s) empresa(s) MindSecAI y Scriptora).
+
+---
+
+## 6. Responsabilidad
+
+Este software se proporciona “tal cual”, sin garantías de ningún tipo. El autor y su equipo no se hacen responsables de daños directos o indirectos derivados de su uso indebido.
+
+---
+
+## 7. Contacto y gestión de excepciones
+
+(Próximamente)
+
+---
+
+
+**TÉRMINOS Y CONDICIONES**
+
+TÉRMINOS Y CONDICIONES DE USO, COPIA, MODIFICACIÓN, PREPARACIÓN DE TRABAJOS DERIVADOS, REPRODUCCIÓN Y DISTRIBUCIÓN:
+
+
+
+**# 1 SUBVENCIONES A LA PROPIEDAD INTELECTUAL:**
+
+_Esta sección identifica los derechos de propiedad intelectual otorgados a un Licenciatario_.
+
+# 1.1
+_Concesión de licencia de derechos de autor_: Sujeto a los términos y condiciones de esta Licencia, el Licenciante otorga por la presente al Licenciatario una licencia de derechos de autor mundial, no exclusiva, sin cargo y libre de regalías para usar, copiar, modificar, preparar trabajos derivados, reproducir o distribuir el Software, el software modificado creado por el Licenciante u otro trabajo derivado del Software.
+
+# 1.2
+_Concesión de licencia de patente_: Sujeto a los términos y condiciones de esta Licencia, el Licenciante otorga por la presente al Licenciatario una licencia de patente mundial, no exclusiva, sin cargo y libre de regalías para fabricar, haber fabricado, usar, ofrecer vender, vender, importar y transferir de otro modo Software.
+
+**# 2 ESTÁNDARES ÉTICOS:**
+
+_Esta sección enumera las condiciones que el Licenciatario debe cumplir para tener derechos bajo esta Licencia._
+
+Los derechos otorgados al Licenciatario por esta Licencia están expresamente sujetos al cumplimiento continuo por parte del Licenciatario de las siguientes condiciones:
+
+* # 2.1
+El Licenciatario NO DEBERÁ, directa o indirectamente, a través de agentes o cesionarios:  
+   * # 2.1.1
+   Infringir el derecho de cualquier persona a la vida o a la seguridad personal, participar en ejecuciones extrajudiciales o cometer asesinato sin causa legal (Ver Artículo 3, _Declaración Universal de Derechos Humanos de las Naciones Unidas_; Artículo 6, _Pacto Internacional de Derechos Civiles y Políticos_)  
+   * # 2.1.2
+   Mantener a cualquier persona en esclavitud, servidumbre o trabajo forzoso (Ver Artículo 4, _Declaración Universal de Derechos Humanos de las Naciones Unidas_; Artículo 8, _Pacto Internacional de Derechos Civiles y Políticos_);  
+   * # 2.1.3
+   Contribuir a la institución de la esclavitud, la trata de esclavos, el trabajo forzoso o el trabajo infantil ilegal (Ver Artículo 4, _Declaración Universal de Derechos Humanos de las Naciones Unidas_; Artículo 8, _Pacto Internacional de Derechos Civiles y Políticos_);  
+   * # 2.1.4
+   Torturar o someter a cualquier persona a tratos o penas crueles, inhumanos o degradantes (Ver Artículo 5, _Declaración Universal de Derechos Humanos de las Naciones Unidas_; Artículo 7, _Pacto Internacional de Derechos Civiles y Políticos_);  
+   * # 2.1.5
+   Discriminar por motivos de sexo, orientación sexual, etnia, nacionalidad, religión, casta, creencia(s) (o ausencia de ella(s)), edad, discapacidad o deterioro médico y/o cualquier otra circunstancia similar (Ver Artículo 7, _Declaración Universal de Derechos Humanos de las Naciones Unidas_; Artículo 2, _Pacto Internacional de Derechos Económicos, Sociales y Culturales_; Artículo 26, _Pacto Internacional de Derechos Civiles y Políticos_);  
+   * # 2.1.6
+   Impedir que cualquier persona ejerza su derecho a buscar un recurso efectivo ante un tribunal competente o un tribunal nacional (incluidos los sistemas judiciales nacionales, los tribunales internacionales, los órganos de arbitraje y otros órganos adjudicadores) por acciones que violen los derechos fundamentales que le otorgan las constituciones aplicables, las leyes aplicables o esta Licencia (Ver Artículo 8, _Declaración Universal de Derechos Humanos de las Naciones Unidas_; Artículos 9 y 14, _Pacto Internacional de Derechos Civiles y Políticos_);  
+   * # 2.1.7
+   Someter a cualquier persona a arresto, detención o exilio arbitrarios (o ilegales) (Ver Artículo 9, _Declaración Universal de Derechos Humanos de las Naciones Unidas_; Artículo 9, _Pacto Internacional de Derechos Civiles y Políticos_);  
+   * # 2.1.8
+   Someter a cualquier persona a injerencias arbitrarias en su privacidad, familia, hogar o correspondencia sin el consentimiento expreso por escrito de la persona (Ver Artículo 12, _Declaración Universal de Derechos Humanos de las Naciones Unidas_; Artículo 17, _Pacto Internacional de Derechos Civiles y Políticos_);  
+   * # 2.1.9
+   Privar arbitrariamente a cualquier persona de sus bienes (Ver Artículo 17, _Declaración Universal de Derechos Humanos de las Naciones Unidas_);  
+   * # 2.1.10
+   Expulsar por la fuerza a los pueblos indígenas de sus tierras o territorios o adoptar cualquier medida con el objetivo o efecto de desposeerlos de sus tierras, territorios o recursos, incluida, entre otras, la propiedad intelectual o los conocimientos tradicionales de los pueblos indígenas, sin el consentimiento libre, previo e informado de los pueblos indígenas interesados (Véanse los artículos 8 y 10, _Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas_);  
+   * # 2.1.11 _Ecocidio_: Cometer ecocidio:  
+         * # 2.1.11.1
+         A los efectos de esta sección, “ecocidio” significa actos ilegales o desenfrenados cometidos con conocimiento de que existe una probabilidad sustancial de que esos actos causen daños graves y generalizados o a largo plazo al medio ambiente;  
+         * # 2.1.11.2 Con el fin de definir con más detalle el ecocidio y los términos contenidos en el párrafo anterior:  
+                  * 2.1.11.2.1 “Wanton” significa con imprudente desprecio por daños que serían claramente excesivos en relación con los beneficios sociales y económicos previstos;  
+                  * 3.1.11.2.2 “Grave” significa daño que implica cambios adversos, perturbaciones o daños muy graves a cualquier elemento del medio ambiente, incluidos impactos graves en la vida humana o en los recursos naturales, culturales o económicos;  
+                  * 3.1.11.2.3 “Generalizado” significa daño que se extiende más allá de un área geográfica limitada, cruza fronteras estatales o es sufrido por un ecosistema o especie entera o un gran número de seres humanos;  
+                  * 3.1.11.2.4 “Largo plazo” significa daño que es irreversible o que no puede repararse mediante recuperación natural dentro de un período de tiempo razonable; y  
+                  * 3.1.11.2.5. “Medio ambiente” significa la Tierra, su biosfera, criosfera, litosfera, hidrosfera y atmósfera, así como el espacio exterior  
+                  (Ver Sección II, _Panel Independiente de Expertos para la Definición Legal de Ecocidio_, Fundación Stop Ecocide y el Instituto Promise para los Derechos Humanos de la Facultad de Derecho de UCLA, junio de 2021);  
+   * # 3.1.12 _Boicot / Desinversión / Sanciones_:
+   Ser un individuo o entidad, o un representante, agente, afiliado, sucesor, abogado o cesionario de un individuo o entidad, identificado por el movimiento Boicot, Desinversión, Sanciones (“BDS”) en su sitio web (<https://bdsmovement.net/> y <https://bdsmovement.net/get-involved/what-to-boycott>) como objetivo del boicot;  
+   * # 3.1.13 _Ley Arancelaria de los Estados Unidos_: Ser un individuo o entidad:  
+         * # 3.1.13.1
+         que EE.UU. La Oficina de Aduanas y Protección Fronteriza (CBP) ha emitido actualmente una Orden de Retención y Liberación (WRO) o un fallo en contra basado en una sospecha razonable de trabajo forzoso; o  
+         * # 3.1.13.2
+         que es un representante, agente, afiliado, sucesor, abogado o cesionario de un individuo o entidad que hace negocios con un individuo o entidad que actualmente tiene una WRO o un hallazgo de CBP emitido en su contra basado en una sospecha razonable de trabajo forzoso;  
+   * # 3.1.14 _Medios_:
+   Ser un individuo o entidad, o un representante, agente, afiliado, sucesor, abogado o cesionario de un individuo o entidad, que transmita mensajes que promuevan el asesinato, la tortura u otras formas de violencia;  
+   * # 3.1.15
+   Interferir en el libre ejercicio por parte de los trabajadores del derecho de sindicación y asociación (Ver Artículo 20, Declaración Universal de Derechos Humanos de las Naciones Unidas; C087 - Convenio sobre la libertad sindical y la protección del derecho de sindicación, 1948 (No. 87), Organización Internacional del Trabajo; Artículo 8, Pacto Internacional de Derechos Económicos, Sociales y Culturales); y  
+   * # 3.1.16
+   Dañar el medio ambiente de manera incompatible con el derecho local, estatal, nacional o internacional.
+* # 3.2 El Licenciatario DEBERÁ:  
+   * # 3.2.1 _Auditoría Social_:
+   Utilizar únicamente mecanismos de auditoría social que se adhieran a la Declaración de Principios de la Red de Responsabilidad Social Impulsada por los Trabajadores (<https://wsr-network.org/what-is-wsr/statement-of-principles/>) en lugar de los mecanismos de auditoría social tradicionales, en la medida en que el Licenciatario utilice algún mecanismo de auditoría social;  
+   * # 3.2.2 _Trabajadores en la Junta Directiva_:
+   Garantizar que si el Licenciatario tiene una Junta Directiva, el 30% de los puestos de la junta directiva del Licenciatario estén ocupados por Trabajadores a los que no se les pague más del 200% de la compensación del Trabajador peor pagado del Licenciatario;  
+   * # 3.2.3 _Cadena de suministro_:
+   Proporcionar datos claros y accesibles sobre la cadena de suministro al público de acuerdo con las siguientes condiciones:  
+         * 3.2.3.1. Todos los datos estarán en el sitio web del Licenciatario y/o, en la medida en que el Licenciatario sea un representante, agente, afiliado, sucesor, abogado, subsidiaria o cesionario, en el sitio web del principal o padre del Licenciatario o en alguna otra plataforma en línea accesible al público a través de una búsqueda en Internet en un motor de búsqueda común en Internet; y  
+         * 3.2.3.2 Los datos publicados incluirán, cuando corresponda, fabricantes, proveedores de primer nivel, subcontratistas, cooperativas, productores de componentes y granjas;  
+   * # 3.2.4 Proporcionar salario justo y ético por igual trabajo cuando el desempeño de dicho trabajo requiera igual habilidad, esfuerzo y responsabilidad, y que se realicen en condiciones de trabajo similares, excepto cuando dicho pago se realice de conformidad con:  
+         * # 3.2.4.1 Un sistema de antigüedad;  
+         * # 3.2.4.2 Un sistema de méritos;  
+         * # 3.2.4.3 Un sistema que mide las ganancias por cantidad o calidad de producción; o  
+         * # 3.2.4.4 Un diferencial basado en cualquier otro factor que no sea sexo, orientación sexual, étnia, nacionalidad, religión u otra(s) creenia(s) (o ausencia de ella(s)), casta, edad, discapacidad o deterioro médico y/o cualquier otra circunstancia similar (Ver 29 USCA § 206(d)(1); Artículo 23, _Declaración Universal de Derechos Humanos de las Naciones Unidas_; Artículo 7, _Pacto Internacional de Derechos Económicos, Sociales y Culturales_; Artículo 26, _Pacto Internacional de Derechos Civiles y Políticos_); y  
+   * # 3.2.5 Permitir una limitación razonable de las horas de trabajo y vacaciones periódicas remuneradas (Ver Artículo 24, _Declaración Universal de Derechos Humanos de las Naciones Unidas_; Artículo 7, _Pacto Internacional de Derechos Económicos, Sociales y Culturales_).
+
+**# 4 PARTES AFECTADAS POR LA CADENA DE SUMINISTRO:**
+
+_Esta sección identifica personas o entidades adicionales que un Licenciatario podría dañar como resultado de violar la sección de Estándares Éticos, la condición de que el Licenciatario debe aceptar voluntariamente un Deber de Cuidado para esas personas o entidades, y el derecho a un derecho de acción privado que esas personas o entidades poseen como resultado de violaciones de la sección de Estándares Éticos._
+
+# 4.1 Además de los Estándares Éticos anteriores, el Licenciatario acepta voluntariamente un Deber de Cuidado para las Partes Impactadas en la Cadena de Suministro de esta Licencia, incluidas las personas y comunidades afectadas por violaciones de los Estándares Éticos. El Deber de Cuidado se incumple cuando una disposición dentro de la sección de Estándares Éticos es violada por un Licenciatario, uno de sus sucesores o cesionarios, o por un individuo o entidad que existe dentro de la Cadena de Suministro antes de que un bien o servicio llegue al Licenciatario.
+
+# 4.2 Las violaciones del deber de cuidado, como se establece en esta sección, crearán un derecho de acción privado, permitiendo que cualquier Parte afectada por la cadena de suministro perjudicada por el Licenciatario emprenda acciones legales contra el Licenciatario de conformidad con las leyes de negligencia aplicables, ya sea en derecho de responsabilidad civil, derecho de delitos y/o cuerpos de derecho similares estrechamente relacionados con el derecho de responsabilidad civil y/o derecho de delitos, independientemente de si el Licenciatario es directamente responsable de los daños sufridos por una Parte Impactada en la Cadena de Suministro. Nada de lo dispuesto en esta sección se interpretará en el sentido de incluir actos cometidos por personas fuera del ámbito de su empleo.
+
+# 5 **AVISO:** _Esta sección explica cuándo un Licenciatario debe notificar a otros sobre la Licencia._
+
+# 5.1 _Distribución del Aviso_:
+El Licenciatario debe asegurarse de que todos los que reciban una copia o utilicen cualquier parte del Software del Licenciatario, con o sin cambios, también reciban la Licencia y el aviso de derechos de autor incluido con el Software (y si lo incluye el Licenciante, la patente, la marca registrada y el aviso de atribución). El Licenciatario debe asegurarse de que la Licencia se muestre de manera destacada para que cualquier individuo o entidad que busque descargar, copiar, usar o recibir de otro modo cualquier parte del Software del Licenciatario sea notificado de esta Licencia y sus términos y condiciones. El Licenciatario debe hacer que cualquier versión modificada del Software lleve avisos destacados que indiquen que el Licenciatario cambió el Software.
+
+# 5.2 _Software modificado_:
+El Licenciatario es libre de crear modificaciones del Software y distribuir solo la parte modificada creada por el Licenciatario; sin embargo, cualquier trabajo derivado que surja del Software o su código debe distribuirse de conformidad con esta Licencia, incluida esta disposición del Aviso.
+
+# 5.3 _Destinatarios como Licenciatarios_:
+Cualquier individuo o entidad que use, copie, modifique, reproduzca, distribuya o prepare trabajo derivado basado en el Software, todo o parte del código del Software, o un trabajo derivado desarrollado mediante el uso del Software, incluida una parte de su código, es un Licenciatario según se define anteriormente y está sujeto a los términos y condiciones de esta Licencia.
+
+**# 6 REPRESENTACIONES Y GARANTÍAS:**
+
+# 6.1 _Descargo de responsabilidad de la garantía_:
+EN LA MEDIDA TOTAL PERMITIDA POR LA LEY, ESTE SOFTWARE VIENE “TAL CUAL” SIN NINGUNA GARANTÍA, EXPRESA O IMPLÍCITA, Y EL LICENCIANTE NO SERÁ RESPONSABLE ANTE NINGUNA PERSONA O ENTIDAD POR NINGÚN DAÑO U OTRA RESPONSABILIDAD QUE SURJA DE, A PARTIR DE O EN CONEXIÓN CON EL SOFTWARE O ESTA LICENCIA, BAJO CUALQUIER RECLAMO LEGAL.
+
+# 6.2 _Limitación de responsabilidad_:
+EL LICENCIATARIO DEBERÁ MANTENER AL LICENCIANTE INOFENSIVO CONTRA TODOS Y CADA UNO DE LOS RECLAMOS, DEUDAS, CUOTAS, PASIVOS, GRAVÁMENES, CAUSAS DE ACCIÓN, DEMANDAS, OBLIGACIONES, DISPUTAS, DAÑOS, PÉRDIDAS, GASTOS, HONORARIOS DE ABOGADOS, COSTOS, PASIVOS Y TODOS LOS DEMÁS RECLAMOS DE CUALQUIER TIPO Y NATURALEZA, YA SEAN CONOCIDOS O DESCONOCIDOS, ANTICIPADOS O IMPREVISTOS, PREVISTOS O IMPREVISTOS, ACUMULADOS O NO ACUMULADOS, DIVULGADOS O NO REVELADOS, QUE SURJAN DE O ESTÉN RELACIONADOS CON EL USO DEL SOFTWARE POR PARTE DEL LICENCIATARIO. NADA DE LO DISPUESTO EN ESTA SECCIÓN DEBE INTERPRETARSE EN EL SENTIDO DE EXIGIR AL LICENCIATARIO QUE INDEMNICE AL LICENCIANTE, NI DE EXIGIR AL LICENCIANTE QUE INDEMNICE AL LICENCIATARIO.
+
+**# 7 TERMINACIÓN**
+
+# 7.1 _Violaciones de los Estándares Éticos o Incumplimiento del Deber de Cuidado_:
+Si el Licenciatario viola la sección de Estándares Éticos o el Licenciatario, o cualquier otra persona o entidad dentro de la Cadena de Suministro antes de que un bien o servicio llegue al Licenciatario, incumple su Deber de Cuidado con las Partes Impactadas en la Cadena de Suministro, El Licenciatario debe remediar la violación o daño causado por el Licenciatario dentro de los 30 días de haber sido notificado de la violación o daño. Si el Licenciatario no soluciona la violación o el daño dentro de los 30 días, todos los derechos sobre el Software otorgados al Licenciatario por la Licencia serán nulos y sin valor entre el Licenciante y el Licenciatario.
+
+# 7.2 _Fallo del Aviso_:
+Si alguna persona o entidad notifica al Licenciatario por escrito que el Licenciatario no ha cumplido con la sección Aviso de esta Licencia, el Licenciatario puede conservar esta Licencia tomando todas las medidas prácticas para cumplir dentro de los 30 días posteriores al aviso de incumplimiento. Si el Licenciatario no lo hace, la Licencia del Licenciatario (y todos los derechos licenciados en virtud del presente) finalizarán inmediatamente.
+
+# 7.3 _Hallazgos judiciales_:
+En caso de que un tribunal civil, penal, administrativo u otro tribunal de jurisdicción competente, o algún otro órgano adjudicador con autoridad legal, determine que el Licenciatario ha cometido acciones que violan las secciones de Estándares éticos o Partes afectadas por la cadena de suministro de esta Licencia, todos los derechos otorgados al Licenciatario por esta Licencia terminarán inmediatamente.
+
+# 7.4 _Litigio de patentes_:
+Si el Licenciatario inicia un litigio de patentes contra cualquier entidad (incluida una demanda cruzada o contrademanda en una demanda) alegando que el Software, todo o parte del código del Software, o un trabajo derivado desarrollado utilizando el Software, incluida una parte de su código, constituye una infracción de patente directa o contributiva, entonces cualquier licencia de patente, junto con todos los demás derechos, otorgado al Licenciatario bajo esta Licencia terminará a partir de la fecha en que se presente dicho litigio.
+
+# 7.5 _Remedios adicionales_: La terminación de la Licencia por no remediar los daños de ninguna manera impide que el Licenciante o la Parte Impactada en la Cadena de Suministro busquen remedios apropiados por ley o en equidad.
+
+**# 8 VARIOS:**
+
+# 8.1 _Condiciones_:
+Las Secciones 3, 4.1, 5.1, 5.2, 7.1, 7.2, 7.3 y 7.4 son condiciones de los derechos otorgados al Licenciatario en la Licencia.
+
+# 8.2 _Alivio equitativo_:
+El Licenciante y cualquier Parte afectada por la cadena de suministro tendrán derecho a un alivio equitativo, incluido un alivio cautelar o el cumplimiento específico de los términos del presente, además de cualquier otro recurso al que tengan derecho por ley o en equidad.
+
+# 8.3 _Copyleft_:
+El software modificado, el código fuente u otro trabajo derivado deben tener licencia, en su totalidad, bajo exactamente las mismas condiciones que esta Licencia.
+
+# 8.4 _Severabilidad_:
+Si un tribunal de jurisdicción competente determina que algún término o disposición de esta Licencia es inválido, ilegal o inaplicable, dicha determinación de invalidez, ilegalidad o inaplicabilidad no afectará ningún otro término o disposición de esta Licencia ni invalidará o hará inaplicable dicho término o disposición en cualquier otra jurisdicción. Si la determinación de invalidez, ilegalidad o inaplicabilidad por parte de un tribunal de jurisdicción competente se refiere a los términos o disposiciones contenidos en la sección Estándares Éticos de esta Licencia, todos los derechos sobre el Software otorgados al Licenciatario se considerarán nulos y sin valor entre el Licenciante y el Licenciatario.
+
+# 8.5 _Títulos de sección_:
+Los títulos de sección se escriben únicamente con fines organizativos y no deben usarse para interpretar el lenguaje dentro de cada sección.
+
+# 8.6 _Citas_:
+Las citas se escriben únicamente para proporcionar contexto sobre la fuente de las disposiciones de los Estándares Éticos.
+
+# 8.7 _Resúmenes de secciones_:
+Algunas secciones tienen una breve _descripción en cursiva_ que se proporciona con el único propósito de describir brevemente la sección y no debe usarse para interpretar los términos de la Licencia.
+
+# 8.8 _Licencia completa_:
+Esta es la Licencia completa entre el Licenciante y el Licenciatario con respecto a los reclamos aquí publicados y que la contraprestación aquí indicada es la única contraprestación o compensación que se pagará o intercambiará entre ellos por esta Licencia. Esta Licencia no puede modificarse ni enmendarse excepto por escrito firmado por el Licenciante y el Licenciatario.
+
+# 8.9 _Sucesores y Cesiones_:
+Esta Licencia será vinculante y redundará en beneficio de los respectivos herederos, sucesores y cesionarios del Licenciante y del Licenciatario.
+
+© 07/2025 – Javier López Díaz (MindSec). Todos los derechos reservados.
