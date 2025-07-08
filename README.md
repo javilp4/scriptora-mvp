@@ -11,3 +11,4 @@ Actualmente en desarrollo. Este repositorio contiene la estructura básica del b
 - React (frontend)  
 - MongoDB (pendiente de integrar)
 
+SPDX-License-Identifier: LicenseRef-MindSec-Ethical-v1.1
