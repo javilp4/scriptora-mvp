@@ -41,3 +41,12 @@ Las contribuciones son bienvenidas siempre que cumplan con los principios ético
 **MindSec** / **Scriptora**  
 2025 © Javier López Díaz  
 
+# ⚠️ Migración oficial a Codeberg
+
+Este proyecto ha sido **migrado oficialmente a Codeberg** por motivos de estabilidad y privacidad.
+
+Puedes seguir el desarrollo activo y la versión más reciente en:
+
+👉 [https://codeberg.org/javilp/scriptora-mvp](https://codeberg.org/javilp/scriptora-mvp)
+
+Este repositorio queda archivado y ya no recibirá actualizaciones.
